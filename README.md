@@ -7,3 +7,4 @@
 (EN)
 
 The repository contains some excercises and material relevant to the "Python - part A" e-learning course by EKDDA.
+The text parts of the jupyter notebooks is in greek.
